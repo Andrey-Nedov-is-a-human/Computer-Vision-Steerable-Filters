@@ -19,4 +19,6 @@
 
 <img src="/imgs/img4.jpg" width="260"/>
 
+## Реализация в MathLab
+
 
