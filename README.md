@@ -21,4 +21,6 @@
 
 ## Реализация в MathLab
 
+<img src="/imgs/img1.png" width="700"/>
+
 
