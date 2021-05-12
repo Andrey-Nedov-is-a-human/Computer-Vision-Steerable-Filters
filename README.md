@@ -2,7 +2,7 @@
 Визуализация поворачивающегося ядра свертки в MathLab / Visualization of a steerable filter in MathLab
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;G(x, y, 𝜎)=\frac{1}{2a}" title="\Large 𝐺(𝑥, 𝑦, 𝜎)=\frac{1}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;G(x, y, \theta)=\frac{1}{2a}" title="\Large 𝐺(𝑥, 𝑦, 𝜎)=\frac{1}{2a}" />
 
 𝐺(𝑥, 𝑦, 𝜎) = 1/{2𝜋𝜎} 𝑒𝑥𝑦𝜎
 
