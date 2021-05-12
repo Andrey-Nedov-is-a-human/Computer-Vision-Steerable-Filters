@@ -15,6 +15,7 @@
 
 <img src="/imgs/img3.jpg" width="250"/>
 где
+
 <img src="/imgs/img4.jpg" width="250"/>
 
 
