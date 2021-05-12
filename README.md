@@ -5,6 +5,8 @@
 
 ## Построение поворачивающегося фильтра
 
+[Полный отчёт/Full report](https://github.com/Andrey-Nedov-is-a-human/Computer-Vision-Steerable-Filters/tree/main/materials/Steerable_filter_Report.pdf)
+
 1. Берём функцию двумерного нормального распределения
 
 <img src="/imgs/img2.jpg" width="300"/>
