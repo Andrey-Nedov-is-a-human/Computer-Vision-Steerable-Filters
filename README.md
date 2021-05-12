@@ -17,6 +17,6 @@
 
 где
 
-<img src="/imgs/img4.jpg" width="250"/>
+<img src="/imgs/img4.jpg" width="260"/>
 
 
