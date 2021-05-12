@@ -1,4 +1,4 @@
-# Визуализация поворачивающегося ядра свертки в MathLab / Visualization of a steerable filter in MathLab
+# Визуализация поворачивающегося ядра свертки в MathLab / Visualization of a steerable filter using MathLab
 
 *Разработчик/Developer*
 1. [Андрей Недов](github.com/Andrey-Nedov-is-a-human)
