@@ -1,9 +1,11 @@
-# Визуализация поворачивающегося ядра свертки в MathLab / Visualization of a steerable filter in MathLab
+# Визуализация поворачивающегося ядра свертки в MathLab / Visualization of a steerable filter using MathLab
 
 *Разработчик/Developer*
 1. [Андрей Недов](github.com/Andrey-Nedov-is-a-human)
 
 ## Построение поворачивающегося фильтра
+
+[Полный отчёт/Full paper](https://github.com/Andrey-Nedov-is-a-human/Computer-Vision-Steerable-Filters/tree/main/materials/Steerable_filter_Report.pdf)
 
 1. Берём функцию двумерного нормального распределения
 
@@ -20,6 +22,8 @@
 <img src="/imgs/img4.jpg" width="260"/>
 
 ## Реализация в MathLab
+
+Меняя угол *θ* мы можем менять направление фильтра.
 
 <img src="/imgs/img1.png" width="700"/>
 
