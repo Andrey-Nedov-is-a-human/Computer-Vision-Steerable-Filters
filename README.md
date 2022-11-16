@@ -1,29 +1,29 @@
-# Визуализация поворачивающегося ядра свертки в MathLab / Visualization of a steerable filter using MathLab
+# Visualization of a steerable filter using MathLab
 
-*Разработчик/Developer*
-1. [Андрей Недов](github.com/Andrey-Nedov-is-a-human)
+*Developer*
+1. [Andrey Nedov](github.com/Andrey-Nedov)
 
-## Построение поворачивающегося фильтра
+## A rotating filter
 
-[Полный отчёт/Full paper](https://github.com/Andrey-Nedov-is-a-human/Computer-Vision-Steerable-Filters/tree/main/materials/Steerable_filter_Report.pdf)
+[Full paper](https://github.com/Andrey-Nedov/Computer-Vision-Steerable-Filters/tree/main/materials/Steerable_filter_Report.pdf)
 
-1. Берём функцию двумерного нормального распределения
+1. We take the function of a two-dimensional normal distribution
 
 <img src="/imgs/img2.jpg" width="300"/>
 
-2. Извлекаем компоненты *Gx* и *Gy* градиента функции
+2. Extract the *Gx* and *Gy* components of the function gradient
 
-3. Получаем направленный фильтр производной по направлению
+3. Obtaining a directional filter of the directional derivative
  
 <img src="/imgs/img3.jpg" width="220"/>
 
-где
+where
 
 <img src="/imgs/img4.jpg" width="260"/>
 
-## Реализация в MathLab
+## Implementation in MathLab
 
-Меняя угол *θ* мы можем менять направление фильтра.
+By changing the angle *θ* we can change the direction of the filter.
 
 <img src="/imgs/img1.png" width="700"/>
 
