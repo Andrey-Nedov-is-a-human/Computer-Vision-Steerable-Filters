@@ -1,6 +1,6 @@
 # Visualization of a steerable filter using MathLab
 
-*17.10.2020*
+*17.10.2019*
 
 *Developer*
 1. [Andrey Nedov](github.com/Andrey-Nedov)
